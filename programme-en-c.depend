@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510646032 source:c:\users\pc-benjamindst\documents\programme-en-c\data.c
+	"data.h"
+
+1510646083 c:\users\pc-benjamindst\documents\programme-en-c\data.h
+	<stdio.h>
+	<stdlib.h>
+
+1510646339 source:c:\users\pc-benjamindst\documents\programme-en-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
